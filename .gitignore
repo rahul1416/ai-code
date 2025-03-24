@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+ai-frontend/logs
+ai-frontend/*.log
+ai-frontend/npm-debug.log*
+ai-frontend/yarn-debug.log*
+ai-frontend/yarn-error.log*
+ai-frontend/pnpm-debug.log*
+ai-frontend/lerna-debug.log*
+
+# Dependencies & Build Outputs
+ai-frontend/node_modules
+ai-frontend/dist
+ai-frontend/dist-ssr
+ai-frontend/*.local
+
+# Editor directories and files
+ai-frontend/.vscode/*
+!ai-frontend/.vscode/extensions.json
+ai-frontend/.idea
+ai-frontend/.DS_Store
+ai-frontend/*.suo
+ai-frontend/*.ntvs*
+ai-frontend/*.njsproj
+ai-frontend/*.sln
+ai-frontend/*.sw?
+.env
