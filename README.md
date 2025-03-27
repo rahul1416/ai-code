@@ -3,14 +3,14 @@
 ## Code Suggestion Video
 
 <video width="1080" height="240" controls>
-  <source src="code_suggestion.webm" type="video/webm">
+  <source src="code_suggestion.webm" type="[video/webm](https://github.com/rahul1416/ai-code/blob/main/code_suggestion.webm)">
   Your browser does not support the video tag.
 </video>
 
 ## Code Generation Video
 
 <video width="1080" height="240" controls>
-  <source src="code_generation.webm" type="video/webm">
+  <source src="code_generation.webm" type="[video/webm](https://github.com/rahul1416/ai-code/blob/main/code_generation.webm)">
   Your browser does not support the video tag.
 </video>
 
