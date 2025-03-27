@@ -2,17 +2,13 @@
 
 ## Code Suggestion Video
 
-<video width="1080" height="240" controls>
-  <source src="code_suggestion.webm" type="[video/webm](https://github.com/rahul1416/ai-code/blob/main/code_suggestion.webm)">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/U4lQ5M_Xz9k/0.jpg)](https://youtu.be/U4lQ5M_Xz9k)
+
 
 ## Code Generation Video
 
-<video width="1080" height="240" controls>
-  <source src="code_generation.webm" type="[video/webm](https://github.com/rahul1416/ai-code/blob/main/code_generation.webm)">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/rE7aN5ZyVeA/0.jpg)](https://youtu.be/rE7aN5ZyVeA)
+
 
 
 # Backend
